@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sumansedhai.com/al-folio/sitemap.xml
